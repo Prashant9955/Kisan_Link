@@ -1,0 +1,10 @@
+{
+  "name": "Kisan Bazaar",
+  "short_name": "Kisan Bazaar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#1f4d3a",
+  "description": "Market intelligence and transaction enablement for farmers and buyers.",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

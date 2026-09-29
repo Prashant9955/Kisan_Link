@@ -1,0 +1,15 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pymongo==4.10.1
+python-dotenv==1.0.1
+python-jose[cryptography]==3.3.0
+bcrypt==4.2.1
+httpx==0.28.1
+redis==5.2.1
+python-socketio==5.12.1
+razorpay==1.4.2
+twilio==9.4.1
+pydantic==2.10.5
+email-validator==2.2.0
+
+python-multipart==0.0.20
